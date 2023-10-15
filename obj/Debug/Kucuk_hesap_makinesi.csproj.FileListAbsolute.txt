@@ -1,0 +1,9 @@
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\bin\Debug\Elit hesap makinesi.exe
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\bin\Debug\Elit hesap makinesi.pdb
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\obj\Debug\Kucuk_hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\obj\Debug\Elit_hesap_makinesi.Form1.resources
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\obj\Debug\Elit_hesap_makinesi.Properties.Resources.resources
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\obj\Debug\Kucuk_hesap_makinesi.csproj.GenerateResource.cache
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\obj\Debug\Kucuk_hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\obj\Debug\Elit hesap makinesi.exe
+C:\Users\bugra\OneDrive\Masaüstü\Kucuk_hesap_makinesi-master\obj\Debug\Elit hesap makinesi.pdb
